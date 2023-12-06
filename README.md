@@ -1,2 +1,3 @@
 # todolist
-First Repository
+My First Repository
+Author - Tharun Sai
